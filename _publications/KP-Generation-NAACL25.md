@@ -2,7 +2,7 @@
 title: "Zero-Shot Keyphrase Generation: Investigating Specialized Instructions and Multi-Sample Aggregation on Large Language Models"
 collection: publications
 permalink: /publication/keyphrase-generation
-date: 2025
+date: 2025-04-01
 ---
 
 Co-authored work on evaluating large language models for keyphrase extraction and generation.
