@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Tomas Malik"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD student at UIC working on NLP and AI."
+  location         : "Chicago, USA"
+  employer         : "University of Illinois Chicago"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mistrmalik@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "tomas-malik"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/tomas-malik-uic/" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
