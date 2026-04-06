@@ -4,20 +4,12 @@ permalink: /industry/
 author_profile: true
 ---
 
-## HM Revenue & Customs (UK Tax Authority)
-**Higher Statistical Data Scientist**  
-2022 – 2023
+<p><strong>Higher Statistical Data Scientist</strong> | UK Tax Authority, Manchester, United Kingdom<br>
+<em>2022 – 2023</em></p>
 
-- Lead analyst on an anti-fraud policy project, contributing to £320M revenue increase over five years  
-- Promoted within one year to Higher Statistical Data Scientist  
-- Conducted large-scale exploratory data analysis  
-- Built dashboards using Power BI for government stakeholders  
-- Developed analytical pipelines using R, SAS, and SQL  
+- <p>I worked as a Lead Analyst on an <a href="https://assets.publishing.service.gov.uk/media/6560c3ef3d77410012420197/Autumn_Statement_2023_Policy_Costings_-_Final.pdf#page=47" target="_blank">anti-fraud policy project</a> that increased government revenue by £320 million over five years. My work spanned exploratory data analysis on large datasets, building Power BI dashboards to communicate findings to government stakeholders, and developing custom R, SAS, and SQL scripts for analysis and forecasting. I was promoted to Higher Statistical Data Scientist in 2023, and volunteered as an SAS Champion — guiding teammates in effectively using SAS for data analysis.</p>
 
-## ČSOB (Prague, Czech Republic)
-**Data Science Intern**  
-Aug – Oct 2020
+<p><strong>Data Science Intern</strong> | Prague, Czech Republic<br>
+<em>August – October 2020</em></p>
 
-- Fine-tuned a pretrained language model for Named Entity Recognition in Czech  
-- Achieved near state-of-the-art performance at the time  
-- Implemented using Python and PyTorch  
+<p>As part of the bank's NLP pipeline, I fine-tuned a pretrained language model to perform Named Entity Recognition in Czech, achieving results that rivalled state-of-the-art performance at the time. The model was built in Python using PyTorch.</p>
